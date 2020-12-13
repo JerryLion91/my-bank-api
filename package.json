@@ -1,0 +1,25 @@
+{
+  "name": "myBankAPI",
+  "version": "1.0.0",
+  "description": "\"# my-bank-api\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JerryLion91/my-bank-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JerryLion91/my-bank-api/issues"
+  },
+  "homepage": "https://github.com/JerryLion91/my-bank-api#readme",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "winston": "^3.3.3"
+  }
+}
